@@ -5,8 +5,9 @@
 A project from the Java Script course
 
 <h3><a>About: </a></h3>
+System for creating sound notifications based on time
 
-link: https://mylilla.github.io/Site/
+link: https://mylilla.github.io/Notifications/
 
 <h3><a>Technology</a></h3>
 
